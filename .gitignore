@@ -1,0 +1,12 @@
+# 编译产物（nvcc -o 生成的可执行文件）
+01_vector_add
+02_image_invert
+03_transpose
+04_thread_id_map
+05_block_size_timing
+06_warp_divergence
+07_error_check
+build_in
+test
+a.out
+*.out
